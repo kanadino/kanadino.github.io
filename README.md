@@ -1,1 +1,1 @@
-# kanadino.github.io
+# How to host a resume on github page
