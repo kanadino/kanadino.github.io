@@ -17,22 +17,25 @@
 1. Log into our GitHub account main page
     - We can see a list of repositories which is located on the left side of the web page.
 2. Click **New** button
-    - This action can bring us to the web page for creating a repository
+    - This action can bring us to the web page for creating a repository.
 3. Type */ownername.github.io*/ into Repository name blank
-    - 
-7. Make our repository be public 
-8. Select **Add a README file** 
-9. Click **Create Repository** to get a new repository
+    - This action will create your own static website to host some information.
+4. Make our repository be public 
+    - It will allow other people or contributors to check your repository content 
+5. Select **Add a README file** 
+    - README file helps other contributors or people who want to learn our materials to know the purpose of this repository and how to run our codes.
+6. Click **Create Repository** 
+    - After doing this action, we can get a reposity which will contain our resume, README documents.
 
 
 ## More Resources
 - [A Markdown tutorial][link 1]
 - [Modern technical writing: An introduction to software documentation][link 2], which is written by Andrew Etter.
-- [More information about GitHub Pages and Jekyll][link 3], which is created by the GitHub team.
+- [More information about GitHub Pages][link 3], which is created by the GitHub team.
 
 [link 1]: https://www.markdowntutorial.com
 [link 2]: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
-[link 3]: https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
+[link 3]: [https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 
 ## Authors and Acknowledgements
 
