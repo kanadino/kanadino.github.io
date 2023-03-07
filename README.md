@@ -35,7 +35,7 @@
 
 [link 1]: https://www.markdowntutorial.com
 [link 2]: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
-[link 3]: [https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+[link 3]: https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages
 
 ## Authors and Acknowledgements
 
