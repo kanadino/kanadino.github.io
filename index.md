@@ -38,10 +38,6 @@
     - Learned introduction to probability
     - Can write short articles or reports in Japanese and Korean
 
-Projects and research papers can be found [here][link]
-
-[link]: http://github.com/dinokana/projects-I-did
-
 - **Communication skills**
     - Communicate with team members in different languages (i.e. English, Chinese, Japanese, Korean, and Mongolian) so that they can accurately understand the material of the project
     - Reasonably allocate project work and provide corresponding help through communication
