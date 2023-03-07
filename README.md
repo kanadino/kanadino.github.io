@@ -1,6 +1,8 @@
 # How to host a resume on GitHub page
 
 ## Purpose
+  
+  This README Markdown file will help you how to host and format your resume on a static website (i.e. we use GitHub page as an example), and our instructions will connect with general principles of current technical writing which mentioned in Andrew Etter's book Modern echnical writing.
 
 ## Prerequisites
 
@@ -8,8 +10,9 @@
   - A resume written in Markdown format
   - A GitHub account 
   - A device can log into you GitHub account
-  -  
+  
 ## Instructions
+
 
 
 ## More Resources
@@ -23,5 +26,9 @@
 
 ## Authors and Acknowledgements
 
+- Author
+  Hong Gao
+- Acknowledgements
+  Thanks to Cody Gordon, Rolf Olayan, and VICTOR IFEAKACHI EZENDU for their valuable advices on my README and resume files.
 
 ## FAQs
