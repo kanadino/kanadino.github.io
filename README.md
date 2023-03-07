@@ -12,7 +12,9 @@
   - A device can log into you GitHub account
   
 ## Instructions
-
+  When we log into our GitHub account main page, we can see a list of repositories which is located on the left side of the web page.
+### Creating a repository 
+1. 
 
 
 ## More Resources
