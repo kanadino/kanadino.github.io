@@ -27,8 +27,8 @@
 ## Authors and Acknowledgements
 
 - Author
-  Hong Gao
+  - Hong Gao
 - Acknowledgements
-  Thanks to Cody Gordon, Rolf Olayan, and VICTOR IFEAKACHI EZENDU for their valuable advices on my README and resume files.
+  - Thanks to Cody Gordon, Rolf Olayan, and VICTOR IFEAKACHI EZENDU for their valuable advices on my README and resume files.
 
 ## FAQs
