@@ -32,14 +32,19 @@
  2. Click **Add file** button 
  3. Click **Upload files** button
     - It will bring us to the web page to upload our resume file 
- 5. Drag our resume.md to the rectangular box or
+ 4. Drag our resume.md to the rectangular box or
     click **choose your files** to choose from our device 
+ 5. Changing our resume.md to index.md 
+    - It will set our resume to host on the static site, which is not shown the README file
  6. Enter the description what we did for this commit 
     - It will help other contributors or ourselves to know what we did in the past
  7. Click **Commit changes** to the file we just created or uploaded   
  
 ### Formatting our resume
-
+1. Click **Add file** button 
+2. Click **Create new file** button 
+   - It will breing us to the web page to typing code
+3. Using _ _config.yml_ as the name of file
 ### 
 
 ## More Resources
@@ -62,4 +67,4 @@
 1. Why is Markdown better than a word processor?
   - 
 2. Why is my resume not showing up?
-  - 
+  - Since the GitHub needs at least 10 minutes to change the site if we did any changes in our resume. It will also need at least 1 hour to create the GitHub Pages which is our static site if we have not one GitHub Pages.
