@@ -2,7 +2,7 @@
 
 ## Purpose
   
-  This README Markdown file will help you how to host and format your resume on a static website (i.e. we use GitHub page as an example), and our instructions will connect with general principles of current technical writing which mentioned in Andrew Etter's book Modern echnical writing.
+  This README Markdown file will help you how to host and format your resume on a static website (i.e. we use GitHub page as an example), and our instructions will connect with general principles of current technical writing which mentioned in Andrew Etter's book Modern Technical Writing.
 
 ## Prerequisites
 
@@ -19,7 +19,7 @@
 2. Click **New** button
     - This action can bring us to the web page for creating a repository.
 3. Type */ownername.github.io*/ into Repository name blank
-    - This action will create your own static website to host some information.
+    - This action will create your own site to host some information.
 4. Make our repository be public 
     - It will allow other people or contributors to check your repository content 
 5. Select **Add a README file** 
@@ -27,6 +27,20 @@
 6. Click **Create Repository** 
     - After doing this action, we can get a reposity which will contain our resume, README documents.
 
+### Uploading our resume.md  
+ 1. Go to our new created repository 
+ 2. Click **Add file** button 
+ 3. Click **Upload files** button
+    - It will bring us to the web page to upload our resume file 
+ 5. Drag our resume.md to the rectangular box or
+    click **choose your files** to choose from our device 
+ 6. Enter the description what we did for this commit 
+    - It will help other contributors or ourselves to know what we did in the past
+ 7. Click **Commit changes** to the file we just created or uploaded   
+ 
+### Formatting our resume
+
+### 
 
 ## More Resources
 - [A Markdown tutorial][link 1]
@@ -45,3 +59,7 @@
   - Thanks to Cody Gordon, Rolf Olayan, and VICTOR IFEAKACHI EZENDU for their valuable advices on my README and resume files.
 
 ## FAQs
+1. Why is Markdown better than a word processor?
+  - 
+2. Why is my resume not showing up?
+  - 
