@@ -12,9 +12,17 @@
   - A device can log into you GitHub account
   
 ## Instructions
-  When we log into our GitHub account main page, we can see a list of repositories which is located on the left side of the web page.
+  
 ### Creating a repository 
-1. 
+1. Log into our GitHub account main page
+    - We can see a list of repositories which is located on the left side of the web page.
+2. Click **New** button
+    - This action can bring us to the web page for creating a repository
+3. Type */ownername.github.io*/ into Repository name blank
+    - 
+7. Make our repository be public 
+8. Select **Add a README file** 
+9. Click **Create Repository** to get a new repository
 
 
 ## More Resources
