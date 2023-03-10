@@ -46,9 +46,21 @@
 1. Click **Add file** button 
 2. Click **Create new file** button 
    - It will breing us to the web page to typing code
-3. Using _ _config.yml_ as the name of file
-4. 
-### 
+3. Use _ _config.yml_ as the name of file
+   - This file will use to format the static site, which can decide Jekyll template.
+4. Type these two lines of code
+  ```
+  theme: jekyll-theme-minimal
+  title: "My Resume"
+  ```
+   - The theme will determine the format of our resume in the static website. Here we use the Jekyll templates provided by GitHub and apply them to GitHub Pages. We can also change the title of the website by using second line code. We can find more Jekyll template from More Resources section of this file, which is provided by the GitHub team. We can also find other templates online.
+5. Enter the description what we did for this commit 
+    - It will help other contributors or ourselves to know what we did in the past
+6. Click **Commit changes** to the file we just created or uploaded 
+ 
+### Opening the static site
+1. Add https://ownername.github.io into the website search bar
+   - Then we will find the resume host on the GitHub Page.
 
 ## More Resources
 - [A Markdown tutorial][link 2]
@@ -68,7 +80,7 @@
 
 ## FAQs
 1. Why is Markdown better than a word processor?
-  - 
+  - Since Markdown is easier to learn and read.
 2. Why is my resume not showing up?
   - Firstly, we need to make sure our name of resume.md already changed to index.md.
   - Secondly, we need to make sure the website address is https://ownername.github.io.
