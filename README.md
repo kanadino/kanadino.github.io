@@ -73,3 +73,6 @@
   - Firstly, we need to make sure our name of resume.md already changed to index.md.
   - Secondly, we need to make sure the website address is https://ownername.github.io.
   - Finally, GitHub might need 10 minutes to change the site if we make any changes to our resume. Creating the static site might need 1 hour if we have not used GitHub Pages to generate a website. For more specific information, we can check the **Actions** of the current repository to know the current running process and time.
+
+## Image
+[! resume demo](https://github.com/kanadino/kanadino.github.io/blob/main/myResume.gif)
