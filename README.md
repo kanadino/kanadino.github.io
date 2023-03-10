@@ -7,7 +7,7 @@
 ## Prerequisites
 
   Before reading the instructions of this README document, please make sure you have following documents and information:
-  - A resume written in [Markdown format][link 2]
+  - A resume written in Markdown format, and there is a tutorial about Markdown in More Resources section
   - A GitHub account, [here][link 1] is a website to sign up a GitHub account
   - A computer can log into you GitHub account
   
@@ -69,4 +69,6 @@
 1. Why is Markdown better than a word processor?
   - 
 2. Why is my resume not showing up?
-  - Since the GitHub needs at least 10 minutes to change the site if we did any changes in our resume. It will also need at least 1 hour to create the GitHub Pages which is our static site if we have not one GitHub Pages.
+  - Firstly, we need to make sure our name of resume.md already changed to index.md.
+  - Secondly, we need to make sure the website address is https://ownername.github.io.
+  - Finally, GitHub might need 10 minutes to change the site if we make any changes to our resume. Creating the static site might need 1 hour if we have not used GitHub Pages to generate a website. For more specific information, we can check the **Actions** of the current repository to know the current running process and time.
