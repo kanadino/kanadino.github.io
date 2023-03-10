@@ -47,6 +47,7 @@
 2. Click **Create new file** button 
    - It will breing us to the web page to typing code
 3. Using _ _config.yml_ as the name of file
+4. 
 ### 
 
 ## More Resources
